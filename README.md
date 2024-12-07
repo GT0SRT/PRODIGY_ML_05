@@ -1,2 +1,2 @@
 # PRODIGY_ML_05
-Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control systems .
+Food Classification and Calories Estimation Develop a model that can accurately recognize food items from images and estimate their calorie content, enabling users to track their dietary intake and make informed food choices.
